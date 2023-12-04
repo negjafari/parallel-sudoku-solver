@@ -13,7 +13,7 @@ Explore different aspects of the Sudoku solver:
 
 - **Parallel Version:** Find the parallelized Sudoku solver using OpenMP in `code/parallel.cpp`
   
-- **Test Cases:** Explore various Sudoku puzzles in the 'testcases' folder..
+- **Test Cases:** Explore various Sudoku puzzles in the `testcases` folder.
 
-- **Sample Outputs:** Examine outputs for puzzle sizes ranging from 9 to 25 with different difficulty levels (easy, medium, hard) in the 'outputs' folder.
+- **Sample Outputs:** Examine outputs for puzzle sizes ranging from 9 to 25 with different difficulty levels (easy, medium, hard) in the `outputs` folder.
 
