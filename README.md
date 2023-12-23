@@ -17,3 +17,7 @@ Explore different aspects of the Sudoku solver:
 
 - **Sample Outputs:** Examine outputs for puzzle sizes ranging from 9 to 25 with different difficulty levels (easy, medium, hard) in the `outputs` folder.
 
+## Contact Us
+We're excited to hear from you! If you have any questions, suggestions, or need assistance, don't hesitate to reach out.
+Feel free to contact us via email at neg.jaafari@gmail.com or noorbakhsha1@gmail.com.
+We're here to help and would love to hear about your experience using this project.
